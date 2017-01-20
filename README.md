@@ -3,8 +3,7 @@
 ## Quickstart
 ```bash```
 git clone https://github.com/MarckK/autocompleter.git && cd autocompleter
-npm install
-npm start
+node server.js
 ```
 Then copy http://localhost:3000/ into your browser.
 
