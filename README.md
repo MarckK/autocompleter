@@ -1,7 +1,7 @@
 # autocompleter
 
 ## Quickstart
-```bash```
+```bash
 git clone https://github.com/MarckK/autocompleter.git && cd autocompleter
 node server.js
 ```
